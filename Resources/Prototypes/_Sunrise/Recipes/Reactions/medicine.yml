@@ -16,6 +16,7 @@
 
 - type: reaction
   id: H-32
+  minTemp: 300
   reactants:
     Arithrazine:
       amount: 1
